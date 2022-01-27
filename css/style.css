@@ -1,8 +1,13 @@
+
 body{
     font-family: 'Poppins', sans-serif;
 }
-header{
-    background-color:#F0FFF0;
+.bg-color{
+    background-color:#F0FFF0
+    ;
+}
+.bg-color2{
+    background-color: #F8FFFB;
 }
 
 .btn-submit{
@@ -17,4 +22,18 @@ header{
 }
 .sign-in{
     background-color: #21B573;
+}
+
+.purple-highlight{
+    color: #413960;
+}
+.learn{
+    font-size: 16px;
+    font-weight: 400;
+}
+/* .img-people{
+    margin-left: 110px;
+} */
+.card{
+    border:none
 }
