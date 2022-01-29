@@ -2,6 +2,10 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+ul,li{
+    text-decoration: none;
+    list-style: none;
+}
 .bg-color{
     background-color:#F0FFF0
     ;
@@ -37,3 +41,33 @@ body{
 .card{
     border:none
 }
+.list{
+    font-size: 20px;
+    font-weight: 400;
+}
+.footer-content{
+    font-size: 20px;
+}
+li{
+    margin: 10px 0;
+}
+
+.test-content{
+    font-size: 18px;
+    text-align: justify;
+}
+
+.copyright{
+    margin: 50px 0px 0;
+}
+.as{
+    width: 100%;
+}
+.hobar{
+    transition: all linear 0.2s;
+}
+.hobar:hover{
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2) ;
+    background-color: white;
+}
+
